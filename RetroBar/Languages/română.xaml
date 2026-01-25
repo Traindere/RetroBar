@@ -52,13 +52,13 @@
         <s:String>Mereu</s:String>
         <s:String>Niciodată</s:String>
     </x:Array>
-    <s:String x:Key="middle_mouse_task_action">_Acțiune cu clickul mijlociu:</s:String>
+    <s:String x:Key="middle_mouse_task_action">_Acțiune cu click-ul mijlociu:</s:String>
     <x:Array x:Key="middle_mouse_task_action_values" Type="s:String">
         <s:String>Nu fă nimic</s:String>
         <s:String>Deschideți o nouă instanță</s:String>
         <s:String>Închideți activitatea</s:String>
     </x:Array>
-    <s:String x:Key="clock_click_action">_Acțiune la clickul ceasului:</s:String>
+    <s:String x:Key="clock_click_action">_Acțiune la click-ul ceasului:</s:String>
     <x:Array x:Key="clock_click_action_values" Type="s:String">
         <s:String>Nu fă nimic</s:String>
         <s:String>Deschideți calendarul Aero</s:String>
