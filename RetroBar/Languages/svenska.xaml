@@ -28,7 +28,7 @@
     <s:String x:Key="customize">Anpa_ssa...</s:String>
     <s:String x:Key="show_input_language">Visa inmatningsspråket</s:String>
     <s:String x:Key="show_clock">Visa _klockan</s:String>
-    <s:String x:Key="show_multi_mon">Visa på _multipel skärmar</s:String>
+    <s:String x:Key="show_multi_mon">Visa på flera skärmar</s:String>
     <s:String x:Key="show_start_button_multi_mon">Visa Start-knappen på alla aktivitetsfält</s:String>
     <s:String x:Key="show_quick_launch">V_isa snabbstartfältet</s:String>
     <s:String x:Key="select_location">Väl_j plats...</s:String>
@@ -94,9 +94,9 @@
     <s:String x:Key="customize_notifications_info">RetroBar visar ikoner för aktiva och brådskande meddelanden, men inaktiva meddelanden döljs. Du kan ange hur meddelanden som rör objekten i listan nedan ska visas.</s:String>
     <s:String x:Key="customize_notifications_instruction">Markera ett objekt och ange hur meddelanden som rör objektet ska visas:</s:String>
     <s:String x:Key="hide_when_inactive">Dölj vid inaktivitet</s:String>
-    <s:String x:Key="always_show">Alltid synlig</s:String>
-    <s:String x:Key="always_hide">Alltid dölj</s:String>
-    <s:String x:Key="remove">Avlägsna</s:String>
+    <s:String x:Key="always_show">Visa alltid</s:String>
+    <s:String x:Key="always_hide">Dölj alltid</s:String>
+    <s:String x:Key="remove">Ta bort</s:String>
     <s:String x:Key="name_heading">Namn</s:String>
     <s:String x:Key="behavior_heading">Beteende</s:String>
     <s:String x:Key="invert_heading">Invertera</s:String>
@@ -123,7 +123,7 @@
     <s:String x:Key="show_taskman_2k">A_ktivitetshanteraren...</s:String>
     <s:String x:Key="show_taskman">A_ktivitetshanteraren</s:String>
     <s:String x:Key="tray_properties">Egenskape_r</s:String>
-    <s:String x:Key="update_available">_Uppdatering tillganglig...</s:String>
+    <s:String x:Key="update_available">_Uppdatering tillgänglig...</s:String>
     <s:String x:Key="exit_retrobar">A_vsluta RetroBar</s:String>
     <s:String x:Key="customize_notifications_menu">A_npassa meddelanden...</s:String>
     <s:String x:Key="lock_taskbar_menu">_Lock the Taskbar</s:String>
